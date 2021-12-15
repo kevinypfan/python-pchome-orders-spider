@@ -7,8 +7,11 @@
 $ pip3 install -r requirements.txt
 ```
 
-### 執行
+下載 chromedriver 解壓縮後，放入專案資料夾內。
+
+下載網址: https://chromedriver.chromium.org/downloads
+
 ```
 $ python3 app.py
 ```
-執行後輸入帳號密碼即可
+執行後輸入帳號密碼即可。
